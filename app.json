@@ -1,0 +1,22 @@
+
+{
+  "name": "Crocodile_Bot",
+  "description": "kelime oyunu",
+  "keywords": [
+    "telegram",
+    "best",
+    "group",
+    "manager",
+    "3"
+  ],
+  "repository": "https://github.com/Goqerti/sozbotragnarok",
+  
+  "addons": [
+    {
+      "plan": "heroku-postgresql",
+      "options": {
+        "version": "10"
+      }
+    }
+  ]
+}
