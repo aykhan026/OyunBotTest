@@ -1,5 +1,5 @@
-# PakizeWordBot
-Söz oyunu. 6000-dən çox söz ilə
+# Aykhan026
+Söz oyunu. 7000-dən çox söz ilə
 
 # Qurulum
 
@@ -12,13 +12,10 @@ Söz oyunu. 6000-dən çox söz ilə
 Əvvəlcə `settings.py` faylında `TOKEN` qarşısına öz Bot Token yazın. Server'da Python (3+) və pip qurulu olmalıdı
 
 1
-`git clone https://github.com/mensimov/pakizewordbot`
+`git clone https://github.com/aykhan026/OyunBotTest`
 
 2
 `pip3 install -r requirements.txt`
 
 3
 `python3 main.py`
-
-### Credits
-[Crocodile](https://github.com/DinaraGil/Crocodile_bot)
